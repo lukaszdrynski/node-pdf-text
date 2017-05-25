@@ -1,5 +1,5 @@
 var _ = require('lodash')
-var Parser = require('pdf2json')
+var Parser = require('pdf3json')
 
 //clear the pdf logger
 require('util')._logN = function() { }
