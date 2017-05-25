@@ -25,6 +25,6 @@
   },
   "dependencies": {
     "lodash": "~2.3.0",
-    "pdf3json": "https://github.com/lukaszdrynski/pdf3json/archive/v1.1.4-1.tar.gz"
+    "pdf3json": "https://github.com/lukaszdrynski/pdf3json/archive/v1.1.4-2.tar.gz"
   }
 }
